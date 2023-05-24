@@ -26,40 +26,19 @@ This is a solution to the [QR code component challenge on Frontend Mentor](https
 ### Links
 
 - Solution URL: [Add solution URL here](https://https://github.com/MelakuAlehegn/qr-code-component-main)
-- Live Site URL: [Add live site URL here](https://your-live-site-url.com)
-
-## My process
+- Live Site URL: [Add live site URL here](https://melakualehegn.github.io/qr-code-component-main/)
 
 ### Built with
 
 - Semantic HTML5 markup
 - CSS custom properties
 - Flexbox
-- CSS Grid
+- Media query
 - Mobile-first workflow
-- [React](https://reactjs.org/) - JS library
-- [Next.js](https://nextjs.org/) - React framework
-- [Styled Components](https://styled-components.com/) - For styles
 
 ### What I learned
 
 I have used the best practices of mobile first design and responsive design techniques.
-
-```html
-<h1>Some HTML code I'm proud of</h1>
-```
-
-```css
-.proud-of-this-css {
-  color: papayawhip;
-}
-```
-
-```js
-const proudOfThisFunc = () => {
-  console.log('🎉')
-}
-```
 
 ## Author
 
